@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.340fb890.css","mappings":"AAAA,QACE,mEAAmC,CACnC,uBAA2B,CAE3B,2BAA4B,CAD5B,qBAEF","sources":["App.css"],"sourcesContent":[".morado{\n  background-image: url('fondo2.png');\n  background-position: center;\n  background-size: cover;\n  background-repeat: no-repeat;\n}"],"names":[],"sourceRoot":""}
